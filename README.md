@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">PlusAuth Flutter Starter Project</h1>
+<h1 align="center">PlusAuth React Native Starter Project</h1>
 
  <p align="center">
     Simple React Native project demonstrates basic authentication flows with PlusAuth
