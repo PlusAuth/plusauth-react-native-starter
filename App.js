@@ -49,6 +49,7 @@ const App: () => Node = () => {
       // Clear local session state
       setAuthState(defaultAuthState)
       setIsLoggedIn(false)
+      setProfileInfo(null)
     } catch (error) {
       console.log(error)
     }
