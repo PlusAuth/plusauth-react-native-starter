@@ -56,7 +56,7 @@ npm run start
 yarn start
 ```
 
-Finally, run the application in an Android device with:
+Finally, run the application on an Android device with:
 
 ```shell
 npm run android
