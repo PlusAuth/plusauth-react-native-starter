@@ -51,5 +51,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+  <key>CFBundleURLName</key>
+  <string>org.reactjs.native.example.ReactNativeStarter</string>
+  <key>CFBundleURLSchemes</key>
+  <array>
+    <string>com.plusauth.reactnativeexample</string>
+  </array>
 </dict>
 </plist>
