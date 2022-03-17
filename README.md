@@ -74,7 +74,7 @@ Then modify the values inside the `plusauth-env.js` file using your Client ID an
 
 * **Run Application in Android Device**
 
-Start the application with:
+Start the [Metro](https://facebook.github.io/metro/) with:
 
 ```shell
 npm run start
@@ -92,7 +92,7 @@ yarn start
 
 * **Run Application in iOS Device**
 
-Just hit the 'Run' button in XCode to start the app.
+Just hit the 'Run' button in XCode to start the app. The [Metro](https://facebook.github.io/metro/) will be started automatically.
 
 ## License
 
