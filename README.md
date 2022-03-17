@@ -72,7 +72,7 @@ First, we need to supply the required configuration values for the application. 
 
 Then modify the values inside the `plusauth-env.js` file using your Client ID and your PlusAuth tenant name.
 
-* **Run Application in Android Device**
+**Run Application in Android Device**
 
 Start the [Metro](https://facebook.github.io/metro/) with:
 
@@ -90,7 +90,7 @@ npm run android
 yarn start
 ```
 
-* **Run Application in iOS Device**
+**Run Application in iOS Device**
 
 Just hit the 'Run' button in XCode to start the app. The [Metro](https://facebook.github.io/metro/) will be started automatically.
 
