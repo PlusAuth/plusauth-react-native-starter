@@ -15,12 +15,14 @@
 
 <details>
   <summary>Table of Contents</summary>
+  <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#what-is-plusauth">What is PlusAuth</a></li>
- </ol>
+  </ol>
 </details>
 
 ---
@@ -41,6 +43,28 @@ Before running the project, you must first follow these steps:
 - Post Logout Redirect Uris:  `com.plusauth.reactnativeexample:/`
 
 Finally, note your Client Id and domain(e.g., https://example.plusauth.com) for app configuration on the next step.
+
+## Installation
+
+* **Android Installation**
+
+```shell
+cd plusauth-react-native-starter
+npm install
+# or with yarn
+# yarn install
+```
+
+* **iOS Installation**
+
+```shell
+cd plusauth-react-native-starter
+npm install
+# or with yarn
+# yarn install
+cd ios
+pod install
+```
 
 ## Getting Started
 
